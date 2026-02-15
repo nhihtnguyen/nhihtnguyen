@@ -1,1 +1,1 @@
-- 🐳 Hi, I’m @nhihtnguyen, a junior software engineer and curious girl.
+- 🐳 Hi, I’m @nhihtnguyen, a software engineer and curious girl.
